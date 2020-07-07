@@ -20,3 +20,6 @@
 * f1_score: 0.9161
 * precision: 0.8847
 * recall: 0.9529
+
+
+O BERT foi usado para a tokenizacao das palavras e  tensorflow.keras para a camada de embbedding. O modelo usado para a predição dos sentimentos foi uma Rede neural convolucional
